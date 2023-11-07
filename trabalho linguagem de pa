@@ -1,0 +1,18 @@
+Python é uma linguagem de programação de alto nível, de propósito geral e interpretada. Python é conhecido por sua sintaxe limpa e legível
+o que se torna uma linguagem popular entre programadores de todos os níveis de experiência
+
+Java é uma linguagem de programação de alto nível. Java é conhecido por sua portabilidade, segurança e capacidade de execução em uma variedade 
+de dispositivos e sistemas operacionais. Java é uma das linguagens de programação usadas para desenvolver aplicativos para a plataforma Android. A maioria dos aplicativos Android, Java
+é amplamente utilizado no desenvolvimento de sistemas
+
+C++ é uma linguagem de programação de propósito geral que foi criada como uma extensão da linguagem de programação C tem sido amplamente utilizada em uma variedade de aplicações 
+desde então. C++ é conhecido por sua flexibilidade, eficiência e poder, o que se torna adequado para uma ampla gama de aplicações de software, incluindo jogos, sistemas de tempo real, 
+sistemas operacionais, software de alto desempenho e muito mais.
+
+codigo minimo : python - print("Olá, mundo!")
+                java - public class OlaMundo {
+    public static void main(String[] args) {
+        System.out.println("Olá, mundo!") 
+               c++ - #include <iostream> int main() {
+    std::cout << "Olá, mundo!" << std::endl;
+    return 0; }
